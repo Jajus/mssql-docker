@@ -1,5 +1,7 @@
 FROM ubuntu:16.04
 
+EXPOSE 1433
+
 ENV SA_PASSWORD=Bingo123
 
 # Setup lists
